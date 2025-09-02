@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Analyzer",
+  "description": "An expert ATS (Applicant Tracking System) resume analyzer. This tool analyzes resumes against job descriptions to assess ATS compatibility and parsing effectiveness, providing actionable feedback to improve your resume.",
+  "requestFramePermissions": []
+}
